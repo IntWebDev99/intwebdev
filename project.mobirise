@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEO SOCIETY",
-    "currentPage": "HomePage.html",
+    "currentPage": "graphicdesignsoftware.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Email",
-        "order": 56
+        "order": 59
       },
       "components": []
     },
@@ -74,7 +74,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Social Media",
-        "order": 57
+        "order": 60
       },
       "components": []
     },
@@ -1380,7 +1380,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "SEO",
-        "order": 58
+        "order": 61
       },
       "components": []
     },
@@ -1388,7 +1388,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Lead Grow",
-        "order": 55
+        "order": 58
       },
       "components": []
     },
@@ -1396,7 +1396,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Uduala",
-        "order": 54
+        "order": 57
       },
       "components": []
     },
@@ -1404,7 +1404,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "SociCake",
-        "order": 53
+        "order": 56
       },
       "components": []
     },
@@ -1412,7 +1412,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Click Agency",
-        "order": 52
+        "order": 55
       },
       "components": []
     },
@@ -1420,7 +1420,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Design Bundle",
-        "order": 51
+        "order": 54
       },
       "components": []
     },
@@ -1428,7 +1428,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Conversio Bot",
-        "order": 50
+        "order": 53
       },
       "components": []
     },
@@ -1436,7 +1436,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Content Burger",
-        "order": 49
+        "order": 52
       },
       "components": []
     },
@@ -1444,7 +1444,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Robotics Payday",
-        "order": 48
+        "order": 51
       },
       "components": []
     },
@@ -1452,7 +1452,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "DFY Services Marketplace",
-        "order": 47
+        "order": 50
       },
       "components": []
     },
@@ -1460,7 +1460,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Ecommmerce Marketplaces",
-        "order": 46
+        "order": 49
       },
       "components": []
     },
@@ -1468,7 +1468,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Ecommerce Stores",
-        "order": 45
+        "order": 48
       },
       "components": []
     },
@@ -1476,7 +1476,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Ecommerce Platform",
-        "order": 44
+        "order": 47
       },
       "components": []
     },
@@ -1484,7 +1484,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Bitrix24",
-        "order": 43
+        "order": 46
       },
       "components": []
     },
@@ -1492,7 +1492,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "SEO Optimizer",
-        "order": 42
+        "order": 45
       },
       "components": []
     },
@@ -1500,7 +1500,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "DFY Hero Themes",
-        "order": 41
+        "order": 44
       },
       "components": []
     },
@@ -1508,7 +1508,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Int App Development",
-        "order": 39
+        "order": 42
       },
       "components": []
     },
@@ -1516,7 +1516,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Nice Website  Builder",
-        "order": 40
+        "order": 43
       },
       "components": []
     },
@@ -1524,7 +1524,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Lite App Development",
-        "order": 38
+        "order": 41
       },
       "components": []
     },
@@ -1532,7 +1532,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Unlimited Hosting Plans",
-        "order": 37
+        "order": 40
       },
       "components": []
     },
@@ -1540,7 +1540,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Website Hosting",
-        "order": 36
+        "order": 39
       },
       "components": []
     },
@@ -1548,7 +1548,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Domains",
-        "order": 35
+        "order": 38
       },
       "components": []
     },
@@ -1556,7 +1556,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Minor Plugins",
-        "order": 34
+        "order": 37
       },
       "components": []
     },
@@ -1564,7 +1564,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Major Plugins",
-        "order": 33
+        "order": 36
       },
       "components": []
     },
@@ -1572,7 +1572,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Integrations",
-        "order": 32
+        "order": 35
       },
       "components": []
     },
@@ -1580,7 +1580,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Social Network",
-        "order": 31
+        "order": 34
       },
       "components": []
     },
@@ -1588,7 +1588,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Workspace",
-        "order": 30
+        "order": 33
       },
       "components": []
     },
@@ -1596,7 +1596,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Content Creator Generator",
-        "order": 29
+        "order": 32
       },
       "components": []
     },
@@ -1604,7 +1604,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Blog",
-        "order": 27
+        "order": 30
       },
       "components": []
     },
@@ -1612,7 +1612,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Agency Reel",
-        "order": 28
+        "order": 31
       },
       "components": []
     },
@@ -1620,7 +1620,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Spark",
-        "order": 26
+        "order": 29
       },
       "components": []
     },
@@ -1628,7 +1628,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Templates-Themes",
-        "order": 25
+        "order": 28
       },
       "components": []
     },
@@ -1636,7 +1636,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Hosting",
-        "order": 24
+        "order": 27
       },
       "components": []
     },
@@ -1644,7 +1644,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "edirectory",
-        "order": 23
+        "order": 26
       },
       "components": []
     },
@@ -1652,7 +1652,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Content Studio",
-        "order": 22
+        "order": 25
       },
       "components": []
     },
@@ -1660,7 +1660,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Local Business Listings",
-        "order": 21
+        "order": 24
       },
       "components": []
     },
@@ -1668,7 +1668,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Local Classified Ads",
-        "order": 20
+        "order": 23
       },
       "components": []
     },
@@ -1676,7 +1676,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Press Releases",
-        "order": 19
+        "order": 22
       },
       "components": []
     },
@@ -1684,7 +1684,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Article Submissions",
-        "order": 18
+        "order": 21
       },
       "components": []
     },
@@ -1692,7 +1692,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Backlinks",
-        "order": 17
+        "order": 20
       },
       "components": []
     },
@@ -1700,7 +1700,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Social Profiles",
-        "order": 16
+        "order": 19
       },
       "components": []
     },
@@ -1708,7 +1708,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Social followers, likes, views",
-        "order": 15
+        "order": 18
       },
       "components": []
     },
@@ -1716,7 +1716,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Social Media Robotics",
-        "order": 14
+        "order": 17
       },
       "components": []
     },
@@ -1724,7 +1724,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Traffic Bots",
-        "order": 13
+        "order": 16
       },
       "components": []
     },
@@ -1732,7 +1732,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Page 47",
-        "order": 12
+        "order": 15
       },
       "components": []
     },
@@ -1740,7 +1740,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "EZ Salaryz",
-        "order": 11
+        "order": 14
       },
       "components": []
     },
@@ -1748,7 +1748,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Web Design",
-        "order": 10
+        "order": 13
       },
       "components": []
     },
@@ -1756,7 +1756,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Wordpress Hosting",
-        "order": 9
+        "order": 12
       },
       "components": []
     },
@@ -1764,7 +1764,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "SitePad Website Builder",
-        "order": 8
+        "order": 11
       },
       "components": []
     },
@@ -1772,7 +1772,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Forms",
-        "order": 7
+        "order": 10
       },
       "components": []
     },
@@ -1780,7 +1780,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Hubspout",
-        "order": 6
+        "order": 9
       },
       "components": []
     },
@@ -1788,7 +1788,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Reviews",
-        "order": 5
+        "order": 8
       },
       "components": []
     },
@@ -1796,7 +1796,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Thinkific Courses",
-        "order": 4
+        "order": 7
       },
       "components": []
     },
@@ -1804,7 +1804,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Logo Services",
-        "order": 3
+        "order": 6
       },
       "components": []
     },
@@ -1812,7 +1812,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Graphic Design Software",
-        "order": 2
+        "order": 5
       },
       "components": []
     },
@@ -1820,7 +1820,31 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Business Cards",
+        "order": 4
+      },
+      "components": []
+    },
+    "seoppc.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "SEO, PPC",
         "order": 1
+      },
+      "components": []
+    },
+    "localadvertisements.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "Local Asvertisements",
+        "order": 2
+      },
+      "components": []
+    },
+    "localbusinesslisting.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Local Business Listings",
+        "order": 3
       },
       "components": []
     }
